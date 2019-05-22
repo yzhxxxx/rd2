@@ -2,7 +2,7 @@
 # Inspur Cloud R&D Center Dep.2
 
 ## 部门介绍
-[Alt text](研发二处.png)
+![Alt text](研发二处.png)
 
 ## 学习总结提交
 
