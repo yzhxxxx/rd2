@@ -13,7 +13,7 @@
  
  ## 问题提交
 * 问题的提交
-  * 在"Issues"页面进行提交，如![Alt text](new_issue.png)
+  * 在"Issues"页面进行提交，如![Alt text](issue-demo.jpg)
   * Title中使用[]区别问题领域，如[Linux]
 
 
